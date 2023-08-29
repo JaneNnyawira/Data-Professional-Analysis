@@ -1,5 +1,5 @@
 INTRODUCTION
-* I did the analysis of Data Professionals after a survey. It was done on PowerBi.
+* I did the analysis of Data Professionals after a survey. Data cleaning, analysis and interactive visualization are the steps I took. It was done on PowerBi.
 
  REQUIREMENTS 
  * Unique ID
