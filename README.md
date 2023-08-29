@@ -1,5 +1,5 @@
 INTRODUCTION
-* I did the analysis of Data Professionals after a survey. It was done on PowerBi.
+* I did the analysis of Data Professionals after a survey on PowerBi.
 
  REQUIREMENTS 
  * Unique ID
