@@ -1,5 +1,6 @@
 ![DATA PRO](https://github.com/JaneNnyawira/Data-Professional-Survey-Breakdown/assets/134518125/0a815af3-c2da-4b96-b612-f7b11bec621a)
 
+
 INTRODUCTION
 * I did the analysis of Data Professionals after a survey. Data cleaning, analysis and interactive visualization are the steps I took. It was done on PowerBi.
 
