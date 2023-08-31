@@ -1,4 +1,5 @@
-![DATA PRO](https://github.com/JaneNnyawira/Data-Professional-Analysis/assets/134518125/2db10857-c8c8-4459-bc16-00061177b25b)
+
+![DATA PRO](https://github.com/JaneNnyawira/Data-Professional-Analysis/assets/134518125/d33bfd50-994c-43ae-9754-eac5ea37fad6)
 
 
 
