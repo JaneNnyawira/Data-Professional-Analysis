@@ -4,9 +4,9 @@
 
 
 DATA USED
-* I did the analysis of Data Professionals after a survey in 2022.
-* Data cleaning and analysis - PowerBi.
-* Interactive visualization - PowerBi.
+* Data - Data Professional data with over 15000 rows on the year 2022, in the month of June.
+* Data Cleaning and Analysis - PowerBi.
+* Interactive Visualization - PowerBi.
 
  REQUIREMENTS 
  * Unique ID
