@@ -1,14 +1,16 @@
+# Data-Professional-Analysis-PowerBi
+
 
 ![DATA PRO](https://github.com/JaneNnyawira/Data-Professional-Analysis/assets/134518125/d33bfd50-994c-43ae-9754-eac5ea37fad6)
 
 
 
-DATA USED
+# Data Used
 * Data - Data Professional data with over 15000 rows on the year 2022, in the month of June.
 * Data Cleaning and Analysis - PowerBi.
 * Interactive Visualization - PowerBi.
 
- REQUIREMENTS 
+# Requirements 
  * Unique ID
  * Average Age of Survey Takers
  * Country of every Survey Takers
@@ -18,7 +20,7 @@ DATA USED
  * Happiness with Work/Life
  * Happiness with the Salary in the Current Position
 
-INSIGHTS
+# Insights
 * There were 630 unique ID.
 * The average age was 29.87.
 * Survey Takers were from United States, followed by other countries, then India, United Kingdom and lastly Canada.
