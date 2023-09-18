@@ -24,7 +24,7 @@
 * Survey Takers were from United States, followed by other countries, then India, United Kingdom and lastly Canada.
 * According to most survey takers, difficulty of breaking into Data Profession was neither easy nor difficult.
 * The favorite Programming Language were Python, R, Others, C/C+, Javascript and Java in that order.
-* Data Scientist were most payed.
+* Data Scientists were most paid.
 * 5.74 out of 10 survey takers were happy with their work/life.
 * 4.27 out 10 survey takers were happy with their salary.
   
