@@ -1,8 +1,6 @@
 # Data-Professional-Analysis-PowerBi
 
-
-![DATA PRO](https://github.com/JaneNnyawira/Data-Professional-Analysis/assets/134518125/d33bfd50-994c-43ae-9754-eac5ea37fad6)
-
+![DATA PRO](https://github.com/JaneNnyawira/Data-Professional-Analysis-PowerBi/assets/134518125/69564a61-7d67-457b-94ad-892ed3557d1d)
 
 
 # Data Used
